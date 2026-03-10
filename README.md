@@ -38,7 +38,7 @@
 
 ### Visual Results
 #### Original Image
-![Original](images/airplane.png)
+- ![Original](images/airplane.png)
 
 #### Filtered Results
-![Filters](images/airplanecollage.png)
+- ![Filters](images/airplanecollage.png)
