@@ -37,8 +37,8 @@
 - Developed and completed as a demonstration of object-oriented modular software design, image processing, and algorithmic traversal as part of coursework in Java programming.
 
 ### Visual Results
-#### Original Image
-- ![Original](images/airplane.png)
+- #### Original Image
+![Original](images/airplane.png)
 
-#### Filtered Results
-- ![Filters](images/airplanecollage.png)
+- #### Filtered Results
+![Filters](images/airplanecollage.png)
